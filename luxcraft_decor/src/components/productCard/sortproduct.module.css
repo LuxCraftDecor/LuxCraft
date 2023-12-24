@@ -1,0 +1,60 @@
+.desktop {
+    background-color: #ffffff;
+    height: 780px;
+    position: relative;
+    width: 784px;
+  }
+  
+  .desktop .rectangle {
+    height: 209px;
+    left: 90px;
+    object-fit: cover;
+    position: absolute;
+    top: 70px;
+    width: 142px;
+  }
+  
+  .desktop .img {
+    height: 209px;
+    left: 251px;
+    object-fit: cover;
+    position: absolute;
+    top: 71px;
+    width: 142px;
+  }
+  
+  .desktop .rectangle-2 {
+    height: 209px;
+    left: 419px;
+    object-fit: cover;
+    position: absolute;
+    top: 513px;
+    width: 142px;
+  }
+  
+  .desktop .rectangle-3 {
+    height: 209px;
+    left: 576px;
+    object-fit: cover;
+    position: absolute;
+    top: 514px;
+    width: 142px;
+  }
+  
+  .desktop .rectangle-4 {
+    height: 416px;
+    left: 414px;
+    object-fit: cover;
+    position: absolute;
+    top: 71px;
+    width: 304px;
+  }
+  
+  .desktop .rectangle-5 {
+    height: 416px;
+    left: 90px;
+    object-fit: cover;
+    position: absolute;
+    top: 306px;
+    width: 303px;
+  }
